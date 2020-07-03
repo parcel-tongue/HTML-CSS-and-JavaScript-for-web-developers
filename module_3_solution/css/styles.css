@@ -1,21 +1,22 @@
 body {
 	font-size: 16px;
-	color: white;
-	background-color: grey;
-	font-family: 'Lobster', cursive;
+	color: black;
+	background-color: whitesmoke;
+	font-family: Arial, Helvetica, sans-serif ;
 }
 
 /* HEADER */
 #header-nav {
-	background-color: #530fad;
+	background-color:rgb(15, 15, 112);
 	border-radius: 0;
 	border: 0;
-	color: white;
+	color:white;
 }
 
 .navbar-brand p {
 	color: white;
 	font-size: 20px;
+	font-weight: 800;
 }
 
 .navbar-brand a:focus, .navbar-brand a:hover {
@@ -44,11 +45,11 @@ body {
 }
 
 .row > div > article {
-	background-color: white;
+	background-color: rgb(9, 9, 109);
 	text-align: justify;
 	margin-bottom: 20px;
 	padding: 12px;
-	color: black;
+	color: whitesmoke;
 }
 /* End Section */
 
